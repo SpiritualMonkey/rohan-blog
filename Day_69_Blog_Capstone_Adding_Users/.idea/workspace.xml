@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2cdc76-99d0-4535-8343-7e173308a9ec" name="Changes" comment="Add gunicorn">
+    <list default="true" id="4f2cdc76-99d0-4535-8343-7e173308a9ec" name="Changes" comment="templates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645350989108</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="templates">
+      <created>1645352253340</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645352253340</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,11 +169,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="amend" />
     <MESSAGE value="Add gunicorn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gunicorn" />
+    <MESSAGE value="templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="templates" />
   </component>
 </project>

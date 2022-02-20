@@ -4,98 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2cdc76-99d0-4535-8343-7e173308a9ec" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4f2cdc76-99d0-4535-8343-7e173308a9ec" name="Changes" comment="amend">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/blog.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/poetry.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/pyproject.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/css/clean-blog.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/css/clean-blog.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/img/about-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/img/contact-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/img/edit-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/js/clean-blog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/js/clean-blog.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/js/contact_me.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/js/jqBootstrapValidation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/scss/_bootstrap-overrides.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/scss/_contact.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/scss/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/scss/_global.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/scss/_masthead.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/scss/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/scss/_post.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/scss/clean-blog.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/brands.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/brands.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/fontawesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/fontawesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/regular.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/regular.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/solid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/solid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/svg-with-js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/v4-shims.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/css/v4-shims.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/jquery/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/jquery/jquery.slim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/jquery/jquery.slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/static/vendor/jquery/jquery.slim.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/templates/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/templates/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/templates/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/templates/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/templates/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/templates/make-post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/templates/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starting+Files+-+blog-with-users-start/templates/register.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +36,7 @@
       <recent name="D:\Desktop\Python Udemy-Dr.Angela Lu\Day_69_Blog_Capstone_Adding_Users" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Day_69_Blog_Capstone_Adding_Users" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,7 +115,28 @@
       <option name="project" value="LOCAL" />
       <updated>1645343039343</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1645348365316</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645348365316</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1645348373341</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645348373341</updated>
+    </task>
+    <task id="LOCAL-00006" summary="amend">
+      <created>1645348539844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645348539844</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,7 +152,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="amend" />
+    <option name="LAST_COMMIT_MESSAGE" value="amend" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
